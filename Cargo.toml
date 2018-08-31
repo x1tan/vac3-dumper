@@ -1,0 +1,6 @@
+[package]
+name = "vac3-dumper"
+version = "0.1.0"
+authors = ["xitan"]
+
+[dependencies]
