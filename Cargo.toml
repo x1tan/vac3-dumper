@@ -1,6 +1,16 @@
 [package]
 name = "vac3-dumper"
 version = "0.1.0"
-authors = ["xitan"]
+authors = ["xitan <xi@xitan.me>"]
+repository = "https://github.com/x1tan/vac3-dumper"
+homepage = "https://xitan.me"
 
 [dependencies]
+nix = "0.11.0"
+procfs = "0.3.1"
+memchr = "2.0.2"
+libc = "0.2.43"
+human-panic = "1.0.1"
+log = "0.4.4"
+env_logger = "0.5.13"
+signal = "0.6.0"
